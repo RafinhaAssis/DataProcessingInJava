@@ -1,0 +1,501 @@
+pedido_id,data_pedido,cliente_nome,cliente_email,produto_nome,produto_categoria,quantidade,preco_unitario,total_pago,status_pedido
+1000,2023/05/16,Ana Vitória Aragão,oferreira@bol.com.br,Voluptatem 78Ah,iluminacao,5,949.41,4747.05,em transporte
+1001,2022/07/03,Leandro Silva,moreiraevelyn@uol.com.br,Iste 57Ah,Freio,3,301.59,904.77,pendenti
+1002,2023/03/07,Thiago da Paz,gferreira@yahoo.com.br,Temporibus 57mm,Motor,1,680.95,680.95,pendenti
+1003,2024/04/26,Otávio Melo,igormartins@da.net,Ut 64W50,lubrificantes,5,174.27,871.35,pendenti
+1004,2022/11/30,Dr. Fernando da Mata,da-cruzluiz-henrique@moraes.net,Reiciendis 11mm,Lubrificantes,3,808.46,2425.38,pendente
+1005,2023/11/29,Maria Sophia Sales,dcostela@almeida.net,Labore 18mm,lubrificantes,3,242.05,726.15,pendenti
+1006,2022/08/02,Maitê Duarte,lgomes@bol.com.br,Sit 23Ah,lubrificantes,4,727.47,2909.88,cançelado
+1007,2024/09/14,Ana Carolina Aragão,thiago83@teixeira.org,Explicabo 90W50,freio,4,453.81,1815.24,entregue
+1008,2024/07/22,Isabelly Pinto,heloisaviana@bol.com.br,Animi 60Ah,freio,2,633.78,1267.56,em transporte
+1009,,Miguel Dias,camposlivia@gmail.com,Magni 46mm,Lubrificantes,3,121.14,363.42,em transporte
+1010,2023/01/28,João Felipe Novaes,davi-lucca13,Nobis 30Ah,Suspensão,3,842.67,2528.01,pendenti
+1011,2022/07/02,Evelyn Nogueira,das-nevesenrico@uol.com.br,Numquam 100Ah,Iluminação,1,628.14,628.14,pendenti
+1012,2024/04/25,Anthony Cavalcanti,davi-lucca22,Ipsam 30Ah,freio,5,393.7,1968.5,cancelado
+1013,2025/01/29,Olivia Moreira,maraujo@melo.com,Odit 40mm,motr,1,738.31,738.31,pendenti
+1014,2023/06/05,Dr. Nicolas Moreira,ubarros@uol.com.br,Sunt 32mm,iluminacao,1,289.64,289.64,pendente
+1015,2024/09/03,Daniel Cardoso,santoslarissa@moura.br,Repellat 11Ah,eletrico,3,431.53,1294.59,pendenti
+1016,2023/08/07,Laura Vieira,pietra44@lima.br,Illo 42Ah,iluminacao,4,242.35,969.4,cançelado
+1017,2023/03/12,Ian Moreira,rochaalexandre@porto.br,Alias 33W50,freio,4,488.5,1954.0,cançelado
+1018,2023/11/25,Emanuel Pinto,da-rosaantonio@da.com,Ex 84Ah,suspencao,3,163.11,489.33,cancelado
+1019,2023/03/22,Stella Ribeiro,samuel16@hotmail.com,Veritatis 39Ah,suspencao,3,,,entregue
+1020,2024/06/06,Kamilly da Cruz,lda-rocha@hotmail.com,Non 10W50,motr,3,625.05,1875.15,cançelado
+1021,2022/09/25,Ana Julia Souza,rebecasantos,Inventore 56mm,Freio,5,400.05,2000.25,entregué
+1022,2024/12/29,Daniel Fogaça,moreiraluiza@yahoo.com.br,Minima 53W50,freio,5,712.8,3564.0,em transporte
+1023,2022/06/16,Maria Alice da Luz,wpeixoto@hotmail.com,Facere 40Ah,Elétrico,tres,349.09,,pendenti
+1024,,Ana Peixoto,valentinada-cruz@nogueira.com,Possimus 57mm,Elétrico,4,624.81,2499.24,cancelado
+1025,2023/12/01,Esther Barbosa,caiocorreia@martins.net,Expedita 73Ah,iluminacao,5,72.03,360.15,cancelado
+1026,2022/07/26,Vicente das Neves,cardosoraquel@correia.com,Tempora 56mm,suspencao,1,577.63,577.63,pendente
+1027,,Júlia Duarte,laraujo,Animi 47Ah,Lubrificantes,3,,,pendenti
+1028,2025/03/26,Bianca da Mata,helena23@santos.com,Corrupti 27Ah,Iluminação,3,379.98,1139.94,cançelado
+1029,2022/11/11,João Miguel Azevedo,jribeiro,Consequuntur 62mm,eletrico,3,601.18,1803.54,pendente
+1030,2022/05/03,João Vitor Costela,joaonogueira@oliveira.net,Quisquam 48mm,Elétrico,1,493.19,493.19,cancelado
+1031,2022/11/24,Nicolas Sales,novaesjoao-felipe,Dolorum 12Ah,Motor,3,418.54,1255.62,cançelado
+1032,2023/02/19,Enrico Rodrigues,ylima@da.br,Placeat 13Ah,Elétrico,5,723.48,3617.4,entregue
+1033,2024/07/25,Heloísa da Luz,peixotomaria@melo.com,Voluptate 34Ah,motr,2,373.98,747.96,cancelado
+1034,2023/08/04,Dra. Ana Luiza Cavalcanti,davi-lucca46,Facilis 28W50,eletrico,1,876.57,876.57,entregue
+1035,2023/05/10,Thiago Nogueira,melissaduarte@bol.com.br,Asperiores 78mm,Elétrico,5,668.46,3342.3,cançelado
+1036,2022/07/06,Gabrielly Vieira,teixeiraian@bol.com.br,Vel 45Ah,lubrificantes,4,823.01,3292.04,pendenti
+1037,2022/10/29,Marcela Peixoto,jporto,Eum 56Ah,Lubrificantes,5,693.07,3465.35,em transporte
+1038,2023/09/27,Ana Carolina Rodrigues,luigiporto@hotmail.com,Quia 64mm,Lubrificantes,4,358.01,1432.04,pendente
+1039,2024/02/10,Luiz Otávio Barbosa,ferreiranina@duarte.com,Fuga 89Ah,motr,4,481.78,1927.12,Em transporte
+1040,2022/07/13,Maria Vitória Dias,eloah22@bol.com.br,Totam 40W50,Lubrificantes,2,152.18,304.36,cançelado
+1041,2025/04/07,Maria Alice da Rocha,martinsmariana@bol.com.br,Consequuntur 61mm,freio,2,736.54,1473.08,Em transporte
+1042,2023/05/25,Julia da Mota,snunes@da.br,Atque 73mm,freio,5,201.34,1006.7,cançelado
+1043,2024/03/16,Letícia da Cunha,jalmeida@da.net,Repellendus 77Ah,Motor,2,759.2,1518.4,pendente
+1044,2024/03/03,Lavínia Moreira,cramos@da.br,Nemo 34mm,suspencao,1,987.87,987.87,pendenti
+1045,2023/07/02,Sra. Alícia Carvalho,pedro-henriqueda-paz@yahoo.com.br,Modi 26Ah,Suspensão,4,110.46,441.84,entregué
+1046,2024/07/07,Camila Sales,rochakamilly@uol.com.br,Quas 85Ah,iluminacao,2,596.65,1193.3,cancelado
+1047,,Arthur Vieira,tda-paz@yahoo.com.br,Voluptas 72Ah,Lubrificantes,2,598.28,1196.56,Em transporte
+1048,2022/07/25,Felipe Rodrigues,leandrofogaca@viana.net,Rem 29Ah,Suspensão,4,641.84,2567.36,pendente
+1049,2022/05/18,Cauê das Neves,moraesemanuel@ferreira.br,Nemo 85W50,Suspensão,3,195.59,586.77,cançelado
+1050,2025/01/22,Luiz Fernando Teixeira,isisnogueira@ig.com.br,Ex 76Ah,suspencao,2,814.21,1628.42,em transporte
+1051,2023/04/23,Marcelo Martins,elisa69@duarte.br,Ex 79W50,motr,2,949.73,1899.46,Em transporte
+1052,2024/03/27,Alexia da Rocha,yurisilva@azevedo.org,Sequi 51W50,iluminacao,1,102.82,102.82,entregue
+1053,2024/09/08,Isadora das Neves,scosta@campos.br,In 57mm,suspencao,dois,521.01,,pendenti
+1054,2025/01/24,Srta. Helena Moraes,marianabarros@yahoo.com.br,Consequuntur 29mm,Lubrificantes,1,586.94,586.94,cancelado
+1055,2025/01/20,Sofia Ramos,rezendeemanuel@moura.org,Ducimus 46Ah,Elétrico,4,892.77,3571.08,cançelado
+1056,2022/11/25,Pietra Campos,vitorda-mata@uol.com.br,Eaque 91mm,suspencao,1,801.12,801.12,cançelado
+1057,2023/05/15,Sr. Kevin Costa,jribeiro@uol.com.br,Dolorum 63Ah,Elétrico,1,831.21,831.21,pendente
+1058,2024/05/16,Theo Ferreira,wmartins@correia.com,Quisquam 34mm,Elétrico,4,183.13,732.52,entregué
+1059,2025/01/17,Maria Alice Araújo,caroline20@silva.org,Ullam 55Ah,Lubrificantes,4,520.54,2082.16,cancelado
+1060,2024/06/12,João Vitor Pereira,antonio07@lima.com,Mollitia 13Ah,eletrico,1,276.46,276.46,pendente
+1061,2022/06/12,Laura Farias,pedro-miguelmoura@gmail.com,Earum 28Ah,eletrico,1,588.74,588.74,Em transporte
+1062,2024/01/21,Cauê da Cunha,nogueiraana-livia@costa.com,Iusto 40Ah,suspencao,5,681.04,3405.2,cançelado
+1063,2024/05/26,Arthur da Mata,ana30@ig.com.br,Sequi 62Ah,Freio,4,963.94,3855.76,em transporte
+1064,2024/01/28,Luiza da Cunha,levida-conceicao@da.br,Numquam 92W50,eletrico,1,901.94,901.94,entregué
+1065,2023/10/25,Daniela da Rosa,agathaporto@uol.com.br,Voluptates 68W50,iluminacao,4,770.02,3080.08,Em transporte
+1066,2023/11/25,Luiz Fernando da Cunha,moreiradavi-luiz@lima.com,Libero 21Ah,Elétrico,5,228.88,1144.4,cançelado
+1067,2023/02/15,Kaique Viana,pcampos@moreira.br,Similique 94Ah,Elétrico,5,897.18,4485.9,Em transporte
+1068,2022/10/06,Sr. Enrico da Luz,freitasana-julia@yahoo.com.br,Accusantium 47W50,Motor,4,,,cançelado
+1069,2022/06/29,Srta. Emilly Jesus,leticiada-mota@pinto.com,Ipsum 31W50,Suspensão,5,60.9,304.5,pendenti
+1070,2022/12/25,Pedro Miguel Jesus,qnogueira@peixoto.com,Ut 74Ah,freio,1,687.17,687.17,entregue
+1071,2023/11/05,João Lucas Melo,bfogaca@freitas.com,Ex 49mm,Motor,3,972.33,2916.99,pendente
+1072,2022/07/05,Davi Lucas Cardoso,leandro20,Sed 90W50,lubrificantes,2,830.92,1661.84,pendente
+1073,2022/11/15,,eloahda-cunha@barbosa.br,Autem 14Ah,Suspensão,2,555.55,1111.1,entregué
+1074,,Calebe Castro,arthurmoreira@almeida.com,Consectetur 11mm,lubrificantes,2,912.57,1825.14,entregué
+1075,2023/11/25,Clara Novaes,nathanmoura@aragao.com,Repellendus 71Ah,Elétrico,1,671.82,671.82,pendenti
+1076,2025/01/18,Emanuella da Mata,nunesmaria-sophia@hotmail.com,Labore 31W50,Motor,5,566.82,2834.1,cançelado
+1077,2024/03/30,Otávio Costa,correiaana-vitoria@da.net,Perspiciatis 55mm,iluminacao,4,368.99,1475.96,pendenti
+1078,2022/10/29,Alana da Costa,teixeiralarissa@gomes.net,Sapiente 64W50,Iluminação,5,604.8,3024.0,cançelado
+1079,2025/02/03,Pedro Henrique Lopes,raquelnascimento@martins.net,Doloremque 69mm,Iluminação,5,490.54,2452.7,entregue
+1080,2023/01/26,Lorena Melo,kda-mota@da.net,Deserunt 54mm,Lubrificantes,3,757.73,2273.19,pendenti
+1081,2024/03/28,Eloah Barbosa,oliveiramariane@ig.com.br,Odit 88Ah,freio,4,95.27,381.08,cançelado
+1082,2024/04/13,Dr. Lorenzo Rezende,kamilly79@barros.br,Ad 15W50,suspencao,tres,871.15,,Em transporte
+1083,2025/04/15,Calebe Caldeira,diasalana@cardoso.br,Voluptates 67W50,Iluminação,2,586.8,1173.6,pendenti
+1084,2023/11/19,Kamilly Fogaça,taraujo@gmail.com,Odit 86Ah,Suspensão,1,988.89,988.89,em transporte
+1085,2022/10/24,Sr. Thiago Nunes,joao-vitornogueira@hotmail.com,Tempora 32Ah,Motor,dois,540.79,,entregue
+1086,2025/01/18,Pedro Pinto,tcarvalho@yahoo.com.br,Occaecati 96W50,Iluminação,5,520.54,2602.7,pendenti
+1087,2022/10/23,Thales Cardoso,pedro-henriquecarvalho@yahoo.com.br,Aut 44Ah,iluminacao,4,860.57,3442.28,cançelado
+1088,2023/10/24,Dr. Marcos Vinicius Jesus,murilo59@gmail.com,Excepturi 26mm,Iluminação,3,626.14,1878.42,pendente
+1089,2024/01/14,Emanuel Barbosa,gmoura@bol.com.br,Accusantium 17mm,lubrificantes,2,971.08,1942.16,em transporte
+1090,2023/04/28,Daniela Ramos,salesbrenda@hotmail.com,Cumque 52mm,freio,3,758.93,2276.79,cancelado
+1091,2024/05/03,Renan Pires,wlima@ig.com.br,Maiores 10Ah,eletrico,4,762.91,3051.64,entregué
+1092,,Lívia da Rosa,aribeiro@ig.com.br,Explicabo 30W50,Motor,5,935.08,4675.4,pendenti
+1093,2024/12/25,Bruna Almeida,cardosothiago@yahoo.com.br,Mollitia 29mm,lubrificantes,3,943.16,2829.48,pendente
+1094,2025/04/16,Thomas Teixeira,maria-luizaalves@yahoo.com.br,Velit 12W50,Elétrico,1,463.27,463.27,pendenti
+1095,2023/09/23,Camila Lopes,oporto@ig.com.br,Repudiandae 25mm,Lubrificantes,3,902.5,2707.5,cançelado
+1096,2024/12/01,Dr. Ryan da Paz,guilherme28@gmail.com,Molestias 95Ah,suspencao,5,103.75,518.75,em transporte
+1097,2023/03/03,Julia da Mota,caio78@ig.com.br,Consequuntur 45Ah,Freio,3,482.59,1447.77,cançelado
+1098,2024/01/13,Ana Júlia da Cruz,marcos-vinicius22@pires.org,Minus 52W50,motr,2,758.34,1516.68,entregué
+1099,2024/05/24,Maria da Paz,nferreira@ig.com.br,Natus 66W50,Lubrificantes,3,398.16,1194.48,Em transporte
+1100,2023/10/11,João Guilherme Costa,vcampos@bol.com.br,Exercitationem 10W50,Freio,4,845.11,3380.44,pendente
+1101,2024/04/29,Luiza da Mata,joao-vitorgomes@azevedo.com,Libero 84Ah,freio,4,381.36,1525.44,Em transporte
+1102,2024/01/26,Sra. Isabel Viana,jesusmanuela@gmail.com,Distinctio 17Ah,eletrico,1,113.16,113.16,Em transporte
+1103,2024/11/12,Dr. Nicolas Freitas,xcampos@nunes.com,Totam 49W50,lubrificantes,3,141.57,424.71,cancelado
+1104,2024/01/25,Marcelo Lopes,maria-clara74@uol.com.br,Vel 45W50,suspencao,4,420.72,1682.88,cancelado
+1105,,Sra. Eduarda Sales,pedro-lucassilva@pinto.org,Impedit 28W50,Lubrificantes,5,562.9,2814.5,entregue
+1106,2024/01/06,Ana Carolina Martins,rafael08@martins.net,Fugit 43mm,lubrificantes,4,999.13,3996.52,em transporte
+1107,2022/06/22,Dr. Lucas Gabriel Oliveira,fogacajoao@gmail.com,Debitis 11W50,motr,2,827.76,1655.52,pendenti
+1108,2023/01/01,Milena Novaes,usouza@ramos.br,Molestias 93W50,Freio,5,988.82,4944.1,Em transporte
+1109,2022/12/19,Lucas Almeida,amandacarvalho@uol.com.br,Incidunt 62mm,freio,4,180.58,722.32,cançelado
+1110,2022/06/28,Leonardo Gomes,soliveira@ig.com.br,Cupiditate 65Ah,eletrico,4,170.31,681.24,pendenti
+1111,,Enzo Fernandes,luiz-gustavoda-cruz@gmail.com,Velit 20Ah,freio,3,64.53,193.59,Em transporte
+1112,2022/08/05,Rafael Sales,kevin64@hotmail.com,Tenetur 18Ah,Freio,5,579.24,2896.2,entregue
+1113,2024/10/28,Cauê da Luz,castromaria-clara@viana.net,Nihil 66W50,motr,2,466.67,933.34,entregue
+1114,2023/02/23,Srta. Kamilly da Rosa,caldeiraluiza@gmail.com,Iste 87mm,Freio,4,758.58,3034.32,cancelado
+1115,2022/12/31,Dra. Lorena Silveira,silveirabenjamin@fogaca.com,Sequi 76Ah,Lubrificantes,4,736.08,2944.32,pendenti
+1116,2023/12/02,André Pires,isaacpeixoto@hotmail.com,Eaque 60Ah,freio,4,941.55,3766.2,cançelado
+1117,2023/04/03,Felipe Cardoso,manuelacampos@da.br,Magni 39Ah,motr,2,512.31,1024.62,Em transporte
+1118,2022/08/04,Maria Vitória das Neves,noah55@yahoo.com.br,Suscipit 99Ah,Suspensão,2,927.82,1855.64,pendenti
+1119,2025/02/01,Dr. Paulo Carvalho,jcaldeira@uol.com.br,In 36mm,eletrico,1,754.99,754.99,pendente
+1120,2024/08/10,Maria Clara Gonçalves,enzo-gabrielaraujo@lopes.com,Modi 15Ah,Suspensão,2,924.78,1849.56,entregué
+1121,2023/02/18,Ana Beatriz Porto,kcosta@gmail.com,Tenetur 32Ah,lubrificantes,5,177.11,885.55,pendenti
+1122,2022/11/17,,nviana@nogueira.net,Numquam 61Ah,Suspensão,2,744.2,1488.4,pendenti
+1123,2022/09/09,Maria Fernanda Silva,da-rosabeatriz@costa.com,Molestias 36Ah,freio,2,743.66,1487.32,pendenti
+1124,2023/08/06,Davi Luiz Cunha,qmoreira@ig.com.br,Esse 13Ah,Elétrico,4,62.61,250.44,cançelado
+1125,2024/03/25,Vitor Gabriel Fogaça,nda-conceicao@ferreira.br,Officiis 29mm,freio,5,,,entregue
+1126,2024/01/01,Rebeca Fogaça,ian87@teixeira.com,Distinctio 71mm,Iluminação,4,339.23,1356.92,cançelado
+1127,2024/08/01,Sr. Enrico Rodrigues,yagodias@lopes.br,Facere 40Ah,eletrico,1,972.59,972.59,entregue
+1128,2024/03/17,Clarice Moura,olivia90@gmail.com,Modi 84mm,suspencao,3,275.93,827.79,Em transporte
+1129,2025/02/14,Pedro Gonçalves,theoalves@yahoo.com.br,Porro 31W50,iluminacao,5,,,pendenti
+1130,,Sra. Esther Moraes,esthercunha@uol.com.br,Quia 23Ah,eletrico,2,948.56,1897.12,pendenti
+1131,2022/10/03,Ana Sophia Caldeira,rodriguesana-julia@uol.com.br,Dignissimos 37Ah,eletrico,1,264.47,264.47,pendenti
+1132,2024/10/16,Srta. Kamilly Ribeiro,rafaela60@ig.com.br,Neque 52W50,Suspensão,4,252.89,1011.56,cançelado
+1133,2023/02/01,Sr. Caio Cavalcanti,isabelly63@ig.com.br,Earum 11mm,Freio,2,317.61,635.22,entregue
+1134,2024/08/26,Dr. Thiago Costa,stephany04@teixeira.br,Atque 60W50,iluminacao,5,519.47,2597.35,cançelado
+1135,2024/07/08,Brenda Nogueira,ocastro@ig.com.br,Aliquam 89Ah,Iluminação,2,861.43,1722.86,entregué
+1136,2022/11/25,Dra. Sabrina Costela,costarafaela@ig.com.br,Veniam 59Ah,freio,5,70.45,352.25,Em transporte
+1137,2024/07/19,Dra. Joana Moraes,luiz-miguelcarvalho@gmail.com,Nobis 87W50,eletrico,4,339.5,1358.0,pendenti
+1138,2025/03/10,Pietra Barbosa,luiz-otavioda-paz@melo.net,Quas 37mm,Suspensão,2,817.11,1634.22,pendenti
+1139,2022/06/30,Theo Almeida,luiz-miguel12@souza.net,Excepturi 83mm,Motor,5,785.21,3926.05,em transporte
+1140,2022/08/12,Alice Ferreira,melomaria-vitoria@gmail.com,Expedita 97mm,Elétrico,5,734.76,3673.8,entregue
+1141,2025/04/14,Gustavo Gomes,spinto@hotmail.com,Ipsum 50mm,Lubrificantes,3,282.93,848.79,cançelado
+1142,2023/10/07,Erick Oliveira,carvalhocarolina@costela.com,Quis 29mm,iluminacao,5,309.34,1546.7,pendente
+1143,2022/05/29,Rebeca Cardoso,pietra67,Officiis 67W50,lubrificantes,4,158.26,633.04,Em transporte
+1144,2025/04/06,Maria Clara Santos,joao-gabrielnogueira@bol.com.br,Quibusdam 42W50,Lubrificantes,5,673.92,3369.6,cançelado
+1145,2024/10/03,Gustavo Rezende,isabellyporto@uol.com.br,Distinctio 29mm,Motor,3,470.61,1411.83,entregué
+1146,2024/10/26,Sra. Maria Duarte,xramos,Et 56W50,suspencao,1,37.6,37.6,entregué
+1147,2025/03/27,Eloah Nogueira,mariana21@da.org,Nesciunt 55Ah,Freio,4,73.88,295.52,cancelado
+1148,2022/08/12,Dr. Diogo Oliveira,jesusclarice@gmail.com,Mollitia 97Ah,iluminacao,2,884.49,1768.98,entregue
+1149,2024/12/19,Sabrina Correia,zjesus@ribeiro.org,Tempora 85Ah,Lubrificantes,1,165.64,165.64,entregué
+1150,2023/04/17,Marcela Porto,ramosana-luiza@uol.com.br,Amet 18W50,iluminacao,5,675.62,3378.1,Em transporte
+1151,2024/10/14,Clarice Teixeira,souzaheloisa,Placeat 36W50,freio,4,665.5,2662.0,entregué
+1152,2023/11/22,Dr. Alexandre Aragão,ferreiraalicia,Officiis 77W50,Elétrico,2,207.65,415.3,entregue
+1153,2023/05/24,Alexia Aragão,ilima@uol.com.br,Cum 16W50,eletrico,2,954.81,1909.62,pendenti
+1154,2022/10/11,Francisco Almeida,carvalhodavi-lucca@jesus.br,Maxime 76Ah,freio,5,68.8,344.0,entregué
+1155,2024/06/03,Sophia Moraes,csilva@moura.net,Dolor 60Ah,motr,5,409.91,2049.55,em transporte
+1156,2024/01/07,Sr. Caio Caldeira,castropedro@uol.com.br,Cum 65mm,Freio,4,94.76,379.04,Em transporte
+1157,2024/08/08,Nina Ribeiro,evelyn68@hotmail.com,Qui 40Ah,Iluminação,3,,,em transporte
+1158,2024/04/23,Lívia Novaes,ufreitas@yahoo.com.br,Alias 15mm,suspencao,5,484.27,2421.35,entregue
+1159,2023/03/09,Calebe Campos,thomas67@nascimento.br,Incidunt 25mm,Suspensão,2,864.28,1728.56,entregué
+1160,2022/06/11,Luiz Gustavo Melo,santosjulia@porto.com,Repellendus 61Ah,motr,3,163.21,489.63,em transporte
+1161,2024/01/08,Ana Luiza Ribeiro,dcastro@bol.com.br,Placeat 13W50,Motor,4,521.11,2084.44,pendenti
+1162,2022/07/10,Pedro Lucas Almeida,amoreira@gmail.com,Perspiciatis 50Ah,iluminacao,5,952.57,4762.85,em transporte
+1163,2024/02/18,Ana Júlia Jesus,carolinacostela@ramos.br,Atque 89mm,Lubrificantes,3,295.29,885.87,pendenti
+1164,2024/10/22,João Miguel Jesus,costahenrique@gmail.com,Quod 75Ah,eletrico,1,298.8,298.8,cançelado
+1165,2024/02/23,Stephany Barbosa,enzoramos@barbosa.br,Repudiandae 77W50,Elétrico,3,,,cancelado
+1166,2023/09/19,Helena Campos,thiago82@ribeiro.br,Repudiandae 48mm,lubrificantes,3,549.75,1649.25,em transporte
+1167,2024/01/07,Lucas Gabriel Pereira,heloisa30@da.br,Eveniet 30W50,Iluminação,4,426.65,1706.6,em transporte
+1168,2023/02/15,Milena Pereira,bcardoso@bol.com.br,Enim 15Ah,Elétrico,2,,,entregue
+1169,2024/06/27,Sra. Amanda Nogueira,julia07@yahoo.com.br,Odio 63W50,Elétrico,1,235.75,235.75,pendente
+1170,2023/01/13,Thales Cunha,da-cruzgustavo@santos.com,Laudantium 29W50,eletrico,4,553.7,2214.8,pendente
+1171,2023/06/12,Brenda Rodrigues,dalves@aragao.br,Quod 59mm,Iluminação,4,68.76,275.04,em transporte
+1172,2022/08/22,Ana Julia Teixeira,icastro@bol.com.br,Enim 78W50,eletrico,1,52.61,52.61,em transporte
+1173,,,gnascimento@gmail.com,Eligendi 25mm,iluminacao,1,911.73,911.73,Em transporte
+1174,2022/06/07,Sabrina Melo,caiorodrigues@uol.com.br,Praesentium 17mm,Lubrificantes,5,985.91,4929.55,cançelado
+1175,2025/02/23,Dr. Guilherme Silveira,nalves@campos.com,Rerum 47W50,Lubrificantes,4,859.82,3439.28,pendenti
+1176,2025/04/03,Marcela Santos,joao-miguel32@ig.com.br,Omnis 90Ah,motr,5,294.33,1471.65,cançelado
+1177,2025/03/07,Dr. Bruno Cardoso,martinsmilena@ribeiro.com,Dolores 64Ah,Elétrico,4,440.7,1762.8,cançelado
+1178,2025/03/12,Sra. Maria Fernanda Barros,liviada-luz@uol.com.br,Eaque 84W50,Elétrico,1,597.14,597.14,pendente
+1179,2023/03/01,Brenda Campos,earagao@pereira.com,Nulla 68W50,lubrificantes,tres,,,entregué
+1180,2024/11/21,Benício da Paz,davi-lucasda-paz@gmail.com,Unde 37Ah,Suspensão,4,,,cancelado
+1181,2023/11/11,Davi Lucca Costela,qgoncalves@hotmail.com,Nam 59Ah,Motor,3,57.31,171.93,cancelado
+1182,2022/10/23,Dr. Heitor Farias,marinacosta@gmail.com,Totam 13W50,iluminacao,5,859.12,4295.6,entregué
+1183,2025/04/11,Bianca das Neves,cavalcantidiego@da.br,Maxime 78W50,Elétrico,4,583.23,2332.92,entregue
+1184,2022/07/11,Lucca Oliveira,cbarbosa@bol.com.br,Consequuntur 63W50,Suspensão,1,730.59,730.59,pendente
+1185,2022/08/31,Felipe Azevedo,davi-lucasda-luz@bol.com.br,Deserunt 67mm,Suspensão,5,565.49,2827.45,entregué
+1186,2022/05/13,Erick Teixeira,fariasdaniela@bol.com.br,Nulla 90Ah,eletrico,3,54.46,163.38,entregué
+1187,2023/05/23,João Lima,mnascimento@gmail.com,Animi 52Ah,eletrico,1,363.38,363.38,cançelado
+1188,2023/02/14,Sr. Henrique Azevedo,llopes@ramos.com,Voluptatum 48Ah,Freio,5,266.45,1332.25,cançelado
+1189,2024/10/28,Emilly Nascimento,koliveira@bol.com.br,Iusto 32Ah,suspencao,1,899.94,899.94,pendenti
+1190,2023/08/15,Maria Vitória da Rosa,benjamin55@da.br,Fuga 61W50,Lubrificantes,1,776.97,776.97,entregue
+1191,2023/02/09,Isadora Pereira,jcarvalho@gmail.com,Eveniet 16Ah,eletrico,4,189.6,758.4,entregue
+1192,2025/02/13,Carolina da Conceição,qrodrigues@santos.com,Odio 69W50,iluminacao,1,599.68,599.68,entregué
+1193,2024/01/09,Davi Cunha,sophie02@cavalcanti.br,Error 21mm,eletrico,2,,,pendenti
+1194,2024/11/09,Sra. Ana Luiza Farias,salespaulo@da.org,Sit 18W50,Lubrificantes,1,372.63,372.63,Em transporte
+1195,2023/02/06,Anthony das Neves,emanuel85,Voluptates 10W50,Freio,1,706.83,706.83,pendenti
+1196,2023/06/09,Dr. Emanuel Ribeiro,ana-liviada-cruz@ig.com.br,Sed 46mm,iluminacao,5,334.24,1671.2,em transporte
+1197,2022/05/17,Alice Peixoto,da-motasabrina@hotmail.com,Laudantium 19Ah,lubrificantes,4,673.87,2695.48,entregué
+1198,2024/08/09,Gabriela Ramos,da-cruzjuan@alves.br,Tenetur 61W50,Iluminação,5,504.52,2522.6,pendente
+1199,2023/01/02,Sra. Esther Freitas,bcaldeira@nunes.com,Iste 13W50,Iluminação,1,513.44,513.44,pendente
+1200,2024/08/10,Maria Eduarda Rodrigues,caldeiradaniel@correia.br,Praesentium 15mm,iluminacao,1,766.42,766.42,cancelado
+1201,2024/09/21,Luiz Gustavo Sales,maria-julia79@lopes.com,Perspiciatis 29Ah,Lubrificantes,3,918.15,2754.45,em transporte
+1202,2023/12/28,Giovanna Oliveira,stephanyda-mata@hotmail.com,Suscipit 37W50,lubrificantes,4,88.59,354.36,em transporte
+1203,2024/04/27,Thiago Ribeiro,vfogaca@da.br,Dolore 65mm,Elétrico,4,725.24,2900.96,cançelado
+1204,2022/07/28,Maitê Gomes,freitascarolina@gmail.com,Ducimus 12Ah,Iluminação,1,90.24,90.24,cançelado
+1205,2022/06/26,Rafaela Azevedo,zda-conceicao@yahoo.com.br,Pariatur 60W50,Lubrificantes,5,298.89,1494.45,em transporte
+1206,2023/06/03,Juan Azevedo,henriquealmeida@barbosa.org,Deleniti 94mm,motr,5,201.09,1005.45,pendenti
+1207,2024/12/29,Emanuelly Lima,emanuella13@rocha.br,Error 62W50,Iluminação,1,371.25,371.25,cancelado
+1208,2024/09/12,Laura da Cunha,pintopedro-lucas@gmail.com,Ab 68W50,freio,3,624.2,1872.6,entregue
+1209,2023/03/16,Srta. Júlia Martins,biancacastro@hotmail.com,Ex 25W50,motr,3,813.44,2440.32,pendente
+1210,2024/07/20,Ana Vitória Barbosa,bernardonascimento@silva.com,Iusto 92Ah,freio,4,451.51,1806.04,cancelado
+1211,2022/06/18,Leandro Silveira,prodrigues@gmail.com,Laudantium 60mm,Freio,4,,,pendenti
+1212,2024/01/24,Mariana Mendes,raquelmendes@gmail.com,Ea 13mm,Elétrico,3,670.99,2012.97,pendente
+1213,2023/06/18,Ana Clara Souza,dcarvalho@costa.net,Dolores 76mm,motr,2,839.21,1678.42,entregué
+1214,2022/10/10,Mariana da Costa,mendesanthony@yahoo.com.br,Dolore 69W50,eletrico,4,139.0,556.0,entregué
+1215,2024/01/15,Vitor Moreira,lorena22@uol.com.br,Aliquid 36mm,Lubrificantes,4,505.1,2020.4,entregué
+1216,2024/12/15,Sra. Clarice Cardoso,piresyasmin@da.com,Doloremque 44mm,motr,1,,,entregue
+1217,2023/10/09,Renan Cunha,wcorreia@nogueira.com,Nesciunt 11Ah,Freio,um,355.58,,Em transporte
+1218,2024/05/04,Isabelly Aragão,araujolaura@bol.com.br,Praesentium 91mm,Iluminação,5,605.45,3027.25,cancelado
+1219,2024/02/26,Isabelly Castro,uda-paz@cavalcanti.br,A 69W50,Elétrico,tres,266.3,,pendenti
+1220,2023/06/27,Alexia Silveira,aragaocaua@uol.com.br,At 28mm,eletrico,3,277.2,831.6,entregué
+1221,2023/06/06,Pedro Miguel Pires,isis19@bol.com.br,Non 26W50,Elétrico,4,149.41,597.64,em transporte
+1222,2023/10/15,Mariane Duarte,emanuel47@yahoo.com.br,Illo 93W50,Suspensão,1,920.85,920.85,pendenti
+1223,2024/08/18,Luiza Cardoso,pintofelipe,Cum 71mm,suspencao,3,527.07,1581.21,cançelado
+1224,2023/11/30,Amanda Rocha,jazevedo@ig.com.br,Officiis 11Ah,Motor,2,88.22,176.44,Em transporte
+1225,2022/05/13,Dr. Heitor da Rosa,correiavitor@bol.com.br,Omnis 15mm,iluminacao,1,763.75,763.75,cançelado
+1226,2023/02/25,Luigi Farias,martinspietra@azevedo.org,Aspernatur 68W50,Suspensão,,913.53,,pendente
+1227,2023/12/04,Laura Silva,marina64@lopes.br,Amet 48W50,Suspensão,3,160.31,480.93,Em transporte
+1228,2023/06/27,Emanuelly Melo,almeidamelissa@bol.com.br,Iste 12Ah,lubrificantes,1,806.94,806.94,cançelado
+1229,2024/02/21,Ana Beatriz Costa,henrique53@bol.com.br,Illo 81mm,Motor,3,75.46,226.38,entregue
+1230,2024/03/20,Dr. André Gonçalves,elisajesus@pereira.com,Aspernatur 38W50,Suspensão,2,841.24,1682.48,entregue
+1231,2023/09/01,Dr. Noah Campos,joao-felipe56@bol.com.br,Eum 33W50,Motor,3,381.15,1143.45,pendente
+1232,2023/08/18,Guilherme Cunha,iribeiro@pinto.br,Sequi 93mm,eletrico,2,662.68,1325.36,Em transporte
+1233,2022/05/08,Lucas Gabriel Moura,joao-lucas58@da.com,Rem 21Ah,freio,5,265.29,1326.45,cançelado
+1234,2023/12/21,Rebeca Duarte,heitoralves@da.br,Ex 82W50,Freio,4,385.77,1543.08,em transporte
+1235,2022/04/19,Srta. Mirella Pereira,cardosootavio@ferreira.br,Nobis 12mm,lubrificantes,4,237.26,949.04,Em transporte
+1236,2025/04/12,Dra. Rebeca da Luz,vpinto@carvalho.br,Molestias 79W50,Motor,2,369.46,738.92,cancelado
+1237,2022/10/21,Thales da Cunha,cardosoraul@carvalho.com,Dicta 81W50,Iluminação,4,386.4,1545.6,pendente
+1238,2025/03/09,Sophia Gomes,ian89@silva.net,Exercitationem 31Ah,eletrico,2,715.14,1430.28,cancelado
+1239,2022/06/28,Enzo Gabriel Aragão,da-luzcaroline@monteiro.br,Facere 98W50,iluminacao,3,771.27,2313.81,pendenti
+1240,2024/02/21,Paulo Ramos,rafael16@correia.br,A 58W50,Iluminação,1,887.48,887.48,cançelado
+1241,2022/04/27,Fernanda Carvalho,tda-rosa@santos.com,Commodi 11Ah,lubrificantes,3,284.55,853.65,entregue
+1242,2024/02/20,Enrico Correia,gabriel69@barros.net,Animi 41Ah,Elétrico,5,157.15,785.75,cancelado
+1243,,Breno Oliveira,duartejulia@costa.net,Aspernatur 22W50,iluminacao,4,932.75,3731.0,pendente
+1244,2024/07/15,Vitor Gabriel Santos,hda-rosa@souza.br,Sint 14W50,iluminacao,1,884.99,884.99,em transporte
+1245,2024/12/02,João Pedro Moura,rebeca16,Officiis 17Ah,freio,4,336.96,1347.84,cancelado
+1246,2023/01/13,Giovanna Farias,pereiraluigi@ribeiro.org,Mollitia 19mm,Suspensão,3,968.77,2906.31,pendenti
+1247,2023/09/04,Julia Pereira,xsilveira@hotmail.com,Minima 98Ah,iluminacao,4,761.17,3044.68,pendente
+1248,2022/12/05,Vitor Hugo Fernandes,marcelacampos@mendes.com,Doloribus 94mm,Lubrificantes,1,932.06,932.06,cancelado
+1249,2022/11/21,Lavínia Porto,nogueiraolivia@da.com,Quae 60mm,Lubrificantes,5,411.55,2057.75,entregue
+1250,,Felipe Farias,clara40@correia.br,Dignissimos 89Ah,Iluminação,2,652.64,1305.28,pendenti
+1251,2022/11/24,Sophia da Mata,maria-alice64@silveira.br,A 24W50,iluminacao,3,,,cancelado
+1252,2023/03/31,Juliana da Cruz,noaharagao@bol.com.br,Voluptatem 89Ah,motr,1,306.81,306.81,entregue
+1253,2023/04/28,Emanuel Aragão,luigipinto@gmail.com,Minus 92mm,Iluminação,3,410.73,1232.19,entregué
+1254,2023/12/06,Lorenzo Pinto,gabriela33@bol.com.br,Perspiciatis 74mm,iluminacao,3,784.69,2354.07,entregué
+1255,2024/08/01,Isabella Pinto,kmartins@pinto.com,Qui 51mm,lubrificantes,1,536.79,536.79,em transporte
+1256,2025/03/10,Thomas Alves,pedro70@hotmail.com,Error 73Ah,suspencao,2,502.38,1004.76,Em transporte
+1257,2023/07/06,Yasmin Barbosa,luiz-fernando86@ig.com.br,Praesentium 87Ah,Lubrificantes,3,625.61,1876.83,pendente
+1258,2025/01/02,,yfarias@yahoo.com.br,Dolore 14W50,Lubrificantes,5,299.07,1495.35,entregué
+1259,2024/07/31,Brenda Novaes,isiscastro@bol.com.br,Voluptatibus 44mm,Elétrico,1,419.02,419.02,pendenti
+1260,2023/05/24,Isadora Novaes,sarahribeiro@gmail.com,Id 16W50,motr,1,951.13,951.13,pendenti
+1261,2023/06/18,Sra. Daniela Rodrigues,qsales@dias.net,Nisi 61W50,Elétrico,2,723.64,1447.28,pendente
+1262,2024/01/08,Maria Fernanda Pinto,davi-luccamartins@gmail.com,Sunt 89W50,Freio,1,383.15,383.15,Em transporte
+1263,2022/09/02,Rafael Moreira,enovaes@ig.com.br,Excepturi 21W50,motr,2,687.09,1374.18,cançelado
+1264,2024/10/22,Elisa Freitas,anaalmeida@oliveira.com,Labore 13W50,iluminacao,2,299.8,599.6,entregue
+1265,2025/03/16,Natália Rezende,lnascimento@gmail.com,Nesciunt 67W50,Iluminação,3,951.72,2855.16,cançelado
+1266,2022/07/24,Pedro Lucas Rezende,isadoranogueira@uol.com.br,Iusto 92W50,Suspensão,2,433.87,867.74,pendenti
+1267,2024/05/31,Theo da Costa,ian31@sales.com,Aut 97Ah,Freio,3,381.94,1145.82,pendenti
+1268,2022/08/20,Isabella Azevedo,da-rochagabriel@costa.org,Vero 100Ah,Elétrico,4,84.01,336.04,Em transporte
+1269,2025/01/10,Giovanna Viana,rcastro@hotmail.com,Recusandae 76W50,eletrico,1,559.43,559.43,pendenti
+1270,2023/09/28,Raquel Moura,ferreiranicole@correia.net,Soluta 14W50,Suspensão,4,705.11,2820.44,cancelado
+1271,2025/03/06,Ana Beatriz Alves,da-luzpedro-lucas@uol.com.br,Est 75W50,suspencao,1,398.5,398.5,cançelado
+1272,2024/09/10,Luiz Fernando da Cunha,caua28@ribeiro.br,Quis 35W50,Iluminação,1,594.11,594.11,pendenti
+1273,2024/12/30,Ana Beatriz Almeida,araujodanilo@silva.br,Dolor 31Ah,Suspensão,1,324.46,324.46,cancelado
+1274,2024/06/10,Ian Pereira,gomesalice@ig.com.br,Velit 27Ah,Elétrico,1,267.87,267.87,cancelado
+1275,2023/12/12,Isabel da Conceição,qrodrigues@nunes.br,Excepturi 90mm,iluminacao,1,938.68,938.68,cançelado
+1276,2024/09/29,Kamilly Ferreira,goncalvesmarcelo@hotmail.com,Laborum 89W50,Motor,5,136.09,680.45,em transporte
+1277,2023/07/17,Alexia Cardoso,hda-conceicao@hotmail.com,Voluptate 81Ah,motr,5,797.17,3985.85,cancelado
+1278,2023/10/06,Brenda da Cunha,brendada-paz@aragao.com,Expedita 91mm,Suspensão,1,836.23,836.23,em transporte
+1279,2024/07/29,Fernanda da Luz,danilo01@gmail.com,Mollitia 100Ah,Elétrico,4,,,pendente
+1280,,Dr. Diogo Rezende,luizaalves@ig.com.br,Reprehenderit 58W50,freio,2,451.87,903.74,entregue
+1281,2024/05/19,Lara Castro,daniela52@hotmail.com,Unde 94mm,Lubrificantes,2,998.07,1996.14,em transporte
+1282,2024/04/03,Diego da Paz,marcelo55@santos.br,Vel 73Ah,freio,1,767.55,767.55,Em transporte
+1283,2023/05/20,Leonardo da Rosa,diogosilva@gmail.com,Ab 95Ah,Freio,5,594.85,2974.25,cançelado
+1284,2022/07/04,Nicole Costa,francisco65@nascimento.com,Labore 20W50,motr,1,284.02,284.02,entregué
+1285,2024/09/15,João Pedro Gonçalves,oliveiraisabel@gmail.com,Adipisci 39W50,Motor,5,587.83,2939.15,Em transporte
+1286,2024/01/12,,cavalcantihenrique@gmail.com,Ducimus 15mm,Lubrificantes,1,949.25,949.25,pendente
+1287,2022/06/29,Valentina da Conceição,alexandrecavalcanti@rodrigues.br,Quaerat 76Ah,Elétrico,um,256.95,,cançelado
+1288,2022/07/11,Davi Lucas Cunha,lfernandes@bol.com.br,Fugiat 81mm,iluminacao,4,667.78,2671.12,em transporte
+1289,2024/02/27,Daniel Silveira,murilo70@hotmail.com,Similique 56Ah,iluminacao,5,372.3,1861.5,cançelado
+1290,2023/09/12,Maria Cunha,epinto@rocha.br,Eos 27W50,Freio,2,422.8,845.6,entregue
+1291,2023/01/21,Emanuel Gonçalves,matheuspinto@hotmail.com,Facilis 88Ah,lubrificantes,4,236.06,944.24,em transporte
+1292,2022/12/15,Eduardo Carvalho,rduarte@hotmail.com,Molestiae 83Ah,Lubrificantes,5,294.86,1474.3,em transporte
+1293,2024/12/12,Maysa Silva,yagocorreia@uol.com.br,Excepturi 38Ah,suspencao,2,94.92,189.84,cançelado
+1294,2023/06/06,Daniel Duarte,davi99@hotmail.com,Labore 57Ah,Lubrificantes,4,614.27,2457.08,em transporte
+1295,,,flima@fernandes.br,Quos 69W50,Suspensão,1,271.54,271.54,pendenti
+1296,2024/10/23,Felipe da Luz,vitoriaramos@yahoo.com.br,Ex 54W50,iluminacao,4,768.04,3072.16,pendente
+1297,,Vitor Gabriel Nogueira,castroeloah@cavalcanti.br,Odio 80Ah,iluminacao,4,937.4,3749.6,pendente
+1298,2025/04/03,Maitê Freitas,laiscaldeira@ig.com.br,Quisquam 99mm,lubrificantes,5,300.39,1501.95,entregue
+1299,2022/08/05,Helena da Luz,pireseduardo@dias.com,Ad 83W50,iluminacao,2,55.5,111.0,cançelado
+1300,2023/07/04,Gustavo Henrique Pires,cpinto@gmail.com,Pariatur 45W50,freio,2,486.15,972.3,pendenti
+1301,2024/05/07,Lavínia Jesus,brunocorreia@ig.com.br,Incidunt 88W50,eletrico,4,549.63,2198.52,cançelado
+1302,2022/08/18,Lucca Souza,kevin26@ig.com.br,Aperiam 74Ah,Suspensão,4,671.5,2686.0,pendente
+1303,2023/04/19,Igor Barbosa,milenamonteiro@yahoo.com.br,Accusamus 81Ah,Elétrico,1,979.01,979.01,em transporte
+1304,2024/04/03,Maitê Oliveira,das-nevesisadora@yahoo.com.br,Incidunt 88W50,motr,5,897.33,4486.65,entregue
+1305,2023/05/14,,ssantos@gmail.com,Vero 90W50,iluminacao,,978.47,,Em transporte
+1306,2023/02/02,Enzo Duarte,noahrezende@castro.br,Distinctio 86Ah,freio,2,537.24,1074.48,pendente
+1307,2023/06/15,Maitê Cardoso,enzo78@bol.com.br,Culpa 84mm,Motor,3,319.25,957.75,pendente
+1308,2024/06/06,Levi Viana,oliveiraana-carolina@uol.com.br,Sunt 76Ah,Lubrificantes,4,32.07,128.28,cancelado
+1309,2025/01/24,Noah da Rosa,alexandre73,Repellendus 56W50,motr,4,376.97,1507.88,Em transporte
+1310,2022/11/23,Lavínia da Cunha,rafaela12@caldeira.br,Placeat 60W50,Motor,3,590.6,1771.8,cançelado
+1311,2025/03/28,Eloah Campos,nicolasvieira@teixeira.br,Aperiam 16mm,Iluminação,dois,777.2,,Em transporte
+1312,2022/09/21,Gabriela Ribeiro,rda-cruz@costela.com,Alias 49Ah,Elétrico,,396.75,,pendente
+1313,2025/03/21,Maria Eduarda Cardoso,wpires@yahoo.com.br,Odit 63mm,freio,2,475.23,950.46,cancelado
+1314,2024/02/18,Olivia Ferreira,diaslorena@souza.br,Placeat 100mm,lubrificantes,3,718.29,2154.87,pendenti
+1315,2022/08/30,Marcelo Rezende,ryan66@gmail.com,Dolores 93mm,Elétrico,3,747.68,2243.04,pendente
+1316,2024/11/21,Dr. João Pedro Nogueira,lda-cruz@lopes.org,Consequuntur 76Ah,eletrico,2,299.73,599.46,em transporte
+1317,2024/10/04,Srta. Vitória Pinto,sofia53@hotmail.com,Aliquid 85Ah,freio,3,89.22,267.66,Em transporte
+1318,2024/05/18,Maria Fernanda Fogaça,matheus55@yahoo.com.br,Praesentium 20W50,Motor,1,963.92,963.92,entregue
+1319,2023/09/03,Dr. Augusto Gonçalves,imonteiro@pires.br,Ullam 32mm,Elétrico,,339.85,,em transporte
+1320,2024/10/28,João Lucas Rodrigues,stella26@alves.br,Incidunt 100Ah,Elétrico,2,798.66,1597.32,cancelado
+1321,2023/11/03,Isabel Costa,igorribeiro@hotmail.com,Dignissimos 46W50,lubrificantes,1,404.29,404.29,cancelado
+1322,2022/08/06,Sra. Raquel Rocha,enzo-gabrielnogueira@ramos.br,Ullam 96W50,motr,4,542.29,2169.16,pendente
+1323,2024/10/14,Ana Nascimento,noahbarros@gmail.com,Minus 72Ah,Freio,5,262.37,1311.85,pendenti
+1324,2024/10/10,Raul Rezende,alvesmariane,Laboriosam 73Ah,Elétrico,2,592.83,1185.66,entregue
+1325,2022/06/24,Sr. Lorenzo Silveira,xcardoso@pires.br,Occaecati 21Ah,eletrico,1,184.28,184.28,cancelado
+1326,2024/07/12,Dra. Maria Alice Viana,cpereira@rodrigues.com,Sed 58Ah,Lubrificantes,2,916.87,1833.74,cançelado
+1327,2023/04/22,Sra. Pietra Alves,costamaria-clara@pereira.com,Nostrum 55W50,iluminacao,4,386.73,1546.92,Em transporte
+1328,2023/04/20,Pedro Henrique Azevedo,raquel76@ig.com.br,Quisquam 87W50,suspencao,2,908.83,1817.66,cancelado
+1329,2024/08/02,Emilly Fogaça,camposjoao-pedro@peixoto.com,Repudiandae 47mm,motr,2,907.45,1814.9,entregue
+1330,2023/04/29,Catarina Moura,sophiaribeiro,Ipsam 94Ah,Motor,5,363.26,1816.3,entregué
+1331,2023/10/16,Dr. Samuel Fogaça,freitasarthur@lopes.com,Soluta 89Ah,freio,5,,,entregue
+1332,2024/02/20,Manuela Campos,noah23@gmail.com,Laudantium 89Ah,iluminacao,5,258.72,1293.6,entregue
+1333,2025/03/04,Srta. Caroline Barros,emanuelly51@campos.br,Rerum 17mm,suspencao,4,554.72,2218.88,entregué
+1334,2023/07/30,Agatha Nascimento,samuelferreira@da.com,Magnam 10mm,Freio,3,986.83,2960.49,entregue
+1335,2023/05/25,Alexia da Cunha,fcampos@moura.com,Saepe 87mm,iluminacao,,604.27,,cançelado
+1336,2023/08/20,Eduarda Castro,maria-sophiasantos@duarte.br,Quibusdam 60Ah,freio,3,422.21,1266.63,entregue
+1337,2022/11/15,Dr. Heitor Cardoso,antoniomoura@ig.com.br,Nostrum 35mm,Iluminação,4,131.46,525.84,entregue
+1338,2022/11/23,Amanda Pereira,zcardoso@da.org,Vel 27Ah,motr,4,636.26,2545.04,entregue
+1339,2022/09/22,Erick Rocha,pietrorodrigues@alves.br,Id 65Ah,Freio,5,606.95,3034.75,pendente
+1340,2024/10/21,Srta. Natália Ramos,rafaelcastro@silveira.net,Corrupti 49mm,Iluminação,,111.94,,entregué
+1341,2022/08/28,Luiz Felipe da Rosa,vitor-gabrielsantos@lopes.com,Tenetur 91Ah,Iluminação,2,687.12,1374.24,entregué
+1342,2023/01/10,João Lucas Moura,moreirabrenda@das.br,Animi 77mm,Lubrificantes,5,899.9,4499.5,entregue
+1343,2023/08/22,Luiz Miguel Correia,hfreitas@das.br,Sit 44Ah,lubrificantes,2,784.16,1568.32,cançelado
+1344,2023/12/30,Paulo Sales,nogueiramelissa@silveira.com,Harum 36Ah,freio,4,886.65,3546.6,Em transporte
+1345,2022/11/24,Paulo Cavalcanti,wlima@gmail.com,Voluptatem 38Ah,iluminacao,1,984.97,984.97,cançelado
+1346,2022/09/20,Juan Dias,luiz-felipe02@melo.br,Assumenda 52Ah,Motor,4,980.06,3920.24,Em transporte
+1347,2024/08/04,Sarah Cavalcanti,joao-vitorrocha@costela.com,Officia 35mm,eletrico,3,573.89,1721.67,entregué
+1348,2024/09/02,Benjamin Moura,efarias@ribeiro.br,Reiciendis 17Ah,Lubrificantes,2,254.1,508.2,pendente
+1349,2022/10/06,Maysa Nogueira,vieirabernardo@duarte.br,Velit 96W50,Freio,1,564.42,564.42,entregue
+1350,2023/07/21,Sr. Luiz Henrique da Paz,xcunha@bol.com.br,Natus 30mm,freio,2,723.47,1446.94,pendente
+1351,2023/03/19,Alexia Fernandes,kalmeida@pereira.com,Ipsa 50Ah,freio,3,225.15,675.45,cancelado
+1352,2023/02/15,Nathan Souza,igor43@yahoo.com.br,In 49Ah,eletrico,1,978.12,978.12,em transporte
+1353,2024/11/25,Sr. Diego Azevedo,peixotopedro-miguel@goncalves.com,Minima 41Ah,Suspensão,3,752.29,2256.87,entregue
+1354,2024/12/24,Dra. Sarah das Neves,gustavo49@ig.com.br,Autem 89mm,suspencao,5,576.02,2880.1,pendenti
+1355,2023/07/07,Joaquim Porto,larapinto@da.br,Officia 41mm,motr,2,768.68,1537.36,cançelado
+1356,2022/12/20,Maria Vitória Farias,ribeiroalexandre@sales.br,Repudiandae 84W50,Lubrificantes,5,839.74,4198.7,cançelado
+1357,2025/01/03,Dra. Rebeca Oliveira,cavalcantigabrielly@bol.com.br,Autem 77Ah,Iluminação,tres,461.65,,em transporte
+1358,2023/04/23,Sarah da Mota,clararamos@almeida.br,Praesentium 79mm,Iluminação,4,677.16,2708.64,entregué
+1359,2024/09/25,Mariana Sales,vianaisabella@hotmail.com,Expedita 85W50,freio,5,944.68,4723.4,cançelado
+1360,2023/06/10,Maysa Ramos,ipinto@gmail.com,Nam 70W50,Elétrico,1,386.04,386.04,entregue
+1361,2022/06/16,Giovanna Rodrigues,otavio43@hotmail.com,Vel 86Ah,Lubrificantes,5,709.21,3546.05,Em transporte
+1362,2023/09/16,Maria Eduarda da Paz,emillyfernandes@nogueira.com,Quaerat 31mm,eletrico,2,642.18,1284.36,cançelado
+1363,2024/07/30,Maysa Aragão,samuelda-rocha@cardoso.com,Expedita 26mm,Freio,2,92.8,185.6,entregue
+1364,2024/01/14,Renan Melo,amanda59@hotmail.com,Deleniti 54W50,motr,4,682.95,2731.8,entregue
+1365,2024/12/31,Carolina Castro,carolineoliveira@bol.com.br,Quod 37Ah,freio,5,183.99,919.95,pendenti
+1366,2023/02/13,Davi Luiz Campos,cavalcantijuan@ig.com.br,Quos 41W50,eletrico,3,755.93,2267.79,cancelado
+1367,2024/03/18,Nicolas Jesus,qpereira@uol.com.br,Dolores 12Ah,Lubrificantes,3,161.34,484.02,pendente
+1368,2023/01/20,Isabel Pinto,cvieira@uol.com.br,Rerum 57Ah,lubrificantes,4,215.98,863.92,pendenti
+1369,2025/01/19,Sr. Luigi Rodrigues,diogogomes@da.com,Odio 59mm,Iluminação,5,785.16,3925.8,Em transporte
+1370,2024/12/08,Kaique Castro,da-pazana-laura@da.com,Est 60W50,freio,5,167.37,836.85,cançelado
+1371,2024/04/24,Pedro Castro,luiza89@bol.com.br,Id 17Ah,Elétrico,dois,557.79,,pendenti
+1372,2024/02/29,Leonardo Porto,mpinto@uol.com.br,Rerum 70mm,Iluminação,1,116.72,116.72,pendente
+1373,2023/04/07,Lucca Farias,nicolas36@rocha.org,Esse 92W50,Iluminação,3,509.68,1529.04,Em transporte
+1374,2023/09/22,Yasmin Peixoto,marcos-viniciussales@ig.com.br,Natus 26Ah,Freio,1,932.42,932.42,entregue
+1375,2022/11/19,Carlos Eduardo Gomes,ramosbianca@pires.com,Illum 77Ah,Motor,4,986.45,3945.8,pendenti
+1376,2022/06/15,Daniela Souza,barrosluiza@ig.com.br,Ea 19W50,Elétrico,dois,403.21,,cancelado
+1377,2022/06/05,Helena da Mota,oliveiraluiza@bol.com.br,Perferendis 36mm,Iluminação,1,346.53,346.53,pendente
+1378,2022/07/31,Anthony Teixeira,kevingoncalves@gmail.com,Aut 80Ah,lubrificantes,4,552.99,2211.96,em transporte
+1379,2023/05/04,Eduardo Almeida,bduarte@aragao.br,In 47Ah,Iluminação,2,138.53,277.06,pendente
+1380,2023/04/29,,nicolasgoncalves@yahoo.com.br,Corporis 85mm,Suspensão,5,410.26,2051.3,em transporte
+1381,2023/09/17,Samuel Alves,tsilveira@hotmail.com,Laudantium 61Ah,iluminacao,4,84.68,338.72,em transporte
+1382,2022/12/08,Dra. Laís das Neves,livia35@uol.com.br,Magni 12mm,Lubrificantes,2,835.27,1670.54,cançelado
+1383,2024/02/10,Emanuel Martins,alvesnoah@pereira.com,Quibusdam 74W50,iluminacao,2,558.59,1117.18,Em transporte
+1384,2025/02/11,Kaique da Costa,ppires@gmail.com,Porro 83W50,freio,1,759.4,759.4,cançelado
+1385,2023/04/12,Sra. Stephany da Costa,eloah85@caldeira.br,Et 89W50,Suspensão,2,198.24,396.48,cancelado
+1386,2025/01/31,Luigi Nogueira,luiz-felipecampos@da.br,Doloremque 17W50,eletrico,4,676.84,2707.36,pendenti
+1387,2025/02/19,Nicolas Araújo,luiz-henriquerodrigues@uol.com.br,Sapiente 16W50,lubrificantes,5,305.56,1527.8,pendenti
+1388,2023/04/05,Emanuella Rezende,joao-felipe80@ig.com.br,Modi 85mm,suspencao,5,88.35,441.75,entregué
+1389,2022/08/29,Bruno Caldeira,hda-cunha@ig.com.br,Non 67Ah,freio,1,347.12,347.12,cançelado
+1390,2025/02/04,,laislima@ig.com.br,Itaque 26mm,iluminacao,2,492.68,985.36,em transporte
+1391,2022/11/27,Enzo Gabriel Campos,arthur54@bol.com.br,Aspernatur 17mm,motr,4,771.39,3085.56,em transporte
+1392,2022/12/08,Sra. Luana Ramos,eduardo75@gmail.com,Nihil 60mm,Suspensão,um,660.9,,entregue
+1393,2023/12/08,Yasmin Costela,mendesmaria-sophia@da.br,Error 13Ah,motr,2,517.28,1034.56,cançelado
+1394,2022/10/16,Diego Azevedo,claramoraes@hotmail.com,Ratione 45Ah,Iluminação,1,481.35,481.35,pendente
+1395,2024/10/04,Isaac Santos,barbararamos@pereira.net,Debitis 17mm,motr,3,819.65,2458.95,em transporte
+1396,2023/09/08,Igor Pires,larasilveira@moura.com,Tempora 46Ah,Motor,3,887.46,2662.38,cancelado
+1397,2022/05/20,Clara Rodrigues,antonioda-conceicao@aragao.org,Saepe 85Ah,eletrico,3,58.8,176.4,cançelado
+1398,2024/11/03,Maria Alice Vieira,matheus82@pires.br,Ipsa 38mm,Freio,1,457.86,457.86,cançelado
+1399,2023/09/25,Ana Carolina Cardoso,mrodrigues@da.br,Doloribus 15mm,Lubrificantes,2,396.26,792.52,cancelado
+1400,2023/12/17,,daragao@correia.br,Iste 18W50,Lubrificantes,2,802.03,1604.06,Em transporte
+1401,2022/10/24,Ana Freitas,wazevedo@gmail.com,Sapiente 63Ah,Iluminação,4,641.05,2564.2,cancelado
+1402,2024/03/13,Elisa Campos,freitascamila@bol.com.br,Nisi 76Ah,suspencao,3,757.77,2273.31,em transporte
+1403,2023/07/04,Emanuel da Rosa,paulo16@ig.com.br,Laudantium 100Ah,iluminacao,4,817.4,3269.6,em transporte
+1404,2025/04/09,Davi Lucas Cardoso,xcostela@ig.com.br,Voluptate 90Ah,lubrificantes,3,489.79,1469.37,em transporte
+1405,2024/04/21,Emilly Monteiro,luiz-gustavo15@uol.com.br,Illum 97W50,iluminacao,,748.87,,cancelado
+1406,2024/10/21,Maysa Pereira,lauracosta@pereira.br,Corporis 75W50,Freio,5,193.51,967.55,cançelado
+1407,2024/08/26,Rebeca Jesus,pereirapietro@porto.net,Molestiae 55W50,motr,4,473.98,1895.92,pendenti
+1408,2024/04/02,João Pedro Ramos,nataliarocha@silveira.br,Tenetur 47Ah,Suspensão,4,985.45,3941.8,Em transporte
+1409,2023/11/15,Samuel Nascimento,carolina10@silveira.br,Asperiores 84Ah,Lubrificantes,5,53.98,269.9,entregué
+1410,2025/04/05,Sr. Emanuel Sales,salesheitor@fogaca.com,Repudiandae 24mm,suspencao,2,389.95,779.9,em transporte
+1411,2023/01/23,Yuri Campos,bianca20@uol.com.br,Iusto 60W50,Freio,1,463.49,463.49,pendenti
+1412,2024/12/27,Diogo Azevedo,tribeiro@gmail.com,Quibusdam 35W50,Motor,5,409.67,2048.35,entregue
+1413,2022/08/28,,kaiquearaujo@hotmail.com,Accusantium 47mm,motr,1,626.14,626.14,cançelado
+1414,2024/05/14,Dra. Nicole Correia,uda-conceicao@nascimento.br,Neque 55W50,Suspensão,5,506.47,2532.35,pendente
+1415,2023/02/24,Luiz Otávio Freitas,nascimentocaio@viana.org,Magnam 32Ah,Motor,3,539.9,1619.7,em transporte
+1416,,Isadora Fernandes,andrearaujo@costa.com,Repellendus 88mm,freio,1,301.07,301.07,em transporte
+1417,2023/03/25,Dr. Gustavo Gomes,antonio11@hotmail.com,Molestias 45W50,Elétrico,3,236.7,710.1,pendente
+1418,2022/08/21,Fernando Freitas,piresana-julia@cardoso.br,Laborum 60Ah,Elétrico,3,512.66,1537.98,entregué
+1419,2024/05/17,Mariana da Paz,carolinadas-neves@hotmail.com,Beatae 34mm,Elétrico,5,692.71,3463.55,entregué
+1420,2023/06/22,Dra. Laís Rezende,ldias@costela.org,Expedita 13mm,Motor,3,422.34,1267.02,entregue
+1421,2024/09/17,Srta. Emilly Araújo,miguel77@uol.com.br,Suscipit 69Ah,iluminacao,5,73.61,368.05,entregue
+1422,2023/10/06,Larissa Fogaça,fernandesluiz-gustavo@gmail.com,Nam 74Ah,motr,1,898.8,898.8,entregué
+1423,2023/04/10,Joana Pereira,qdias@hotmail.com,Unde 76mm,freio,2,626.03,1252.06,cançelado
+1424,2024/07/03,Alice Barros,rochahelena@aragao.com,Molestiae 96mm,Lubrificantes,tres,735.93,,pendente
+1425,2023/03/23,Isabel Correia,clara61@teixeira.com,Voluptatum 67Ah,Motor,3,148.95,446.85,Em transporte
+1426,2024/10/01,,caldeiraana-sophia@uol.com.br,Eum 63mm,suspencao,3,143.29,429.87,pendente
+1427,2024/06/07,Thomas Porto,nicolas14@gmail.com,Eius 42mm,Freio,3,985.24,2955.72,pendenti
+1428,2023/03/13,Sra. Mariane Martins,heloisa86,Quas 96mm,motr,2,345.01,690.02,pendenti
+1429,2024/04/01,Lucas Gabriel da Paz,maria-alice00@alves.com,Aliquid 74mm,motr,4,740.86,2963.44,pendenti
+1430,2024/02/05,Bernardo Barros,lunagoncalves@goncalves.br,Et 72W50,suspencao,4,163.64,654.56,pendente
+1431,2022/07/04,Dr. Lucas Lopes,olivia76@melo.br,Doloribus 95W50,Freio,3,808.17,2424.51,pendenti
+1432,2023/09/24,Srta. Vitória Ramos,vianalucas-gabriel@uol.com.br,Fugit 96mm,suspencao,1,325.09,325.09,Em transporte
+1433,,Mariane Campos,peixotoana-vitoria@farias.br,Eaque 37W50,Elétrico,4,860.49,3441.96,cancelado
+1434,2023/11/15,Sra. Maria Clara da Rocha,carolina40@porto.br,Minus 65Ah,Freio,3,434.69,1304.07,entregué
+1435,2023/12/21,Levi Fernandes,ana-clara19@fernandes.org,Non 31mm,lubrificantes,1,36.57,36.57,cançelado
+1436,,Srta. Beatriz Alves,eduardocaldeira@costela.br,Nostrum 67Ah,suspencao,5,504.59,2522.95,cancelado
+1437,2022/10/30,Pedro Henrique Jesus,gomesana-clara@duarte.com,Officia 83W50,Iluminação,2,239.08,478.16,Em transporte
+1438,2022/10/09,João Miguel Ferreira,fernandacavalcanti@barbosa.br,Minima 17Ah,freio,3,479.18,1437.54,cançelado
+1439,2023/10/18,Daniel Azevedo,stella04@da.org,Labore 39Ah,iluminacao,1,,,em transporte
+1440,2024/06/06,Erick Sales,augustosantos@duarte.com,Nobis 90Ah,suspencao,2,676.51,1353.02,entregue
+1441,2024/11/27,Alice Souza,tduarte@sales.br,Amet 36Ah,Motor,4,,,cançelado
+1442,2023/03/05,Dr. Thomas Cardoso,pedroda-rosa@nascimento.com,Voluptatem 42Ah,lubrificantes,1,124.41,124.41,pendente
+1443,2023/09/03,Sr. Benjamin Cardoso,fernanda54@da.br,Ea 74Ah,suspencao,4,293.81,1175.24,entregué
+1444,2023/09/04,Diogo Duarte,jda-rosa@da.br,Sequi 92mm,Lubrificantes,1,773.2,773.2,pendenti
+1445,2024/05/09,Eduarda Dias,emillygomes@das.org,Fuga 89W50,motr,5,468.93,2344.65,em transporte
+1446,2024/11/02,Dr. Marcos Vinicius Cardoso,alicia34@bol.com.br,Exercitationem 89mm,suspencao,2,921.52,1843.04,entregue
+1447,2024/02/22,Isis Gonçalves,bryan58@hotmail.com,Atque 58Ah,freio,1,777.43,777.43,entregue
+1448,2023/02/23,,igor23@hotmail.com,Commodi 60mm,Lubrificantes,4,784.9,3139.6,pendente
+1449,2023/09/25,Luiz Otávio Almeida,lopesalicia@martins.org,Assumenda 12W50,Motor,2,125.72,251.44,cançelado
+1450,2023/09/25,Danilo Costela,znunes,Praesentium 17Ah,eletrico,3,663.48,1990.44,cançelado
+1451,2024/12/04,,novaespaulo@hotmail.com,Nesciunt 62Ah,Iluminação,2,745.73,1491.46,entregue
+1452,2023/02/02,Sra. Evelyn Viana,hcardoso@rodrigues.br,Omnis 87mm,Elétrico,,391.71,,entregué
+1453,2024/03/14,Erick Almeida,umoraes@bol.com.br,Numquam 24Ah,Iluminação,1,618.77,618.77,entregue
+1454,2022/06/16,Alana Carvalho,marianada-mata@da.com,Accusamus 62Ah,suspencao,2,195.45,390.9,em transporte
+1455,2024/04/25,Melissa Pires,amandasouza@ig.com.br,Expedita 46Ah,eletrico,1,752.97,752.97,cançelado
+1456,2024/03/29,Daniela Duarte,rochaisis@aragao.com,Nam 27W50,Iluminação,5,379.63,1898.15,em transporte
+1457,2024/03/28,Ana Luiza Moreira,franciscomartins@caldeira.com,Ab 92mm,Freio,4,278.31,1113.24,cançelado
+1458,2024/06/07,Sra. Catarina Nogueira,kevinrocha@gmail.com,Repudiandae 79Ah,motr,1,743.75,743.75,entregué
+1459,2023/12/21,Raquel Cavalcanti,heloisalima@yahoo.com.br,Iure 26mm,Iluminação,5,34.61,173.05,pendenti
+1460,2023/05/05,Juan Azevedo,da-cruzana-julia@bol.com.br,Voluptatum 12Ah,motr,3,395.9,1187.7,entregue
+1461,2023/09/13,Thomas Rocha,luizaalves@costela.br,Cumque 11W50,Suspensão,2,250.26,500.52,Em transporte
+1462,2024/11/27,Sarah Gonçalves,davi-lucas27@uol.com.br,Est 90Ah,lubrificantes,4,534.15,2136.6,entregué
+1463,2022/09/21,Dra. Ana Lívia Cardoso,barrosluana@jesus.br,Ipsa 63W50,Freio,4,462.45,1849.8,pendente
+1464,2024/12/29,Lucca Duarte,blima@bol.com.br,Quaerat 22W50,Suspensão,3,782.72,2348.16,pendente
+1465,2024/11/22,Manuela Monteiro,lopeslaura@yahoo.com.br,Aspernatur 91W50,suspencao,1,317.67,317.67,cançelado
+1466,2024/02/09,Luiza Teixeira,tpereira@gmail.com,Cum 88Ah,Freio,3,247.86,743.58,entregué
+1467,2024/05/02,Sr. Matheus Castro,matheus38@araujo.com,Minus 83W50,Lubrificantes,3,959.07,2877.21,pendente
+1468,2024/08/18,Milena Sales,maria-vitorianogueira@ig.com.br,Laborum 88mm,Iluminação,um,389.18,,entregué
+1469,2023/03/02,Sra. Sabrina da Cunha,qmoura@caldeira.org,Iusto 43W50,Motor,1,228.03,228.03,cançelado
+1470,2023/09/29,Leonardo Cavalcanti,helenada-costa@pinto.net,Recusandae 72mm,lubrificantes,1,217.13,217.13,entregué
+1471,2025/01/18,Sr. Renan Aragão,ana-clara25@ig.com.br,Quae 70mm,Suspensão,4,833.03,3332.12,pendenti
+1472,2023/04/07,Sra. Luiza Lopes,maria-eduardarocha@freitas.net,Error 57W50,Freio,dois,692.64,,entregue
+1473,2022/07/09,Heloísa Ramos,joanada-luz@costela.com,Voluptate 58mm,suspencao,2,508.16,1016.32,Em transporte
+1474,2024/06/13,Letícia Moraes,anthonygoncalves,Quos 71Ah,Motor,tres,765.51,,pendente
+1475,2023/06/10,Júlia Aragão,da-luzdavi-lucas@ramos.com,Aliquid 33Ah,lubrificantes,3,540.09,1620.27,Em transporte
+1476,2024/02/20,Srta. Lavínia Farias,pduarte,Occaecati 64Ah,Iluminação,4,227.98,911.92,pendenti
+1477,2025/03/07,Nathan da Rocha,mendesbruna@da.br,Vero 10W50,eletrico,4,434.45,1737.8,entregue
+1478,2023/09/20,Emilly Castro,da-cruzjoao-gabriel@da.br,Quasi 92Ah,Iluminação,3,174.08,522.24,cancelado
+1479,2023/04/21,Sr. Luiz Henrique Teixeira,maria-juliada-rocha@cunha.org,Nostrum 54Ah,freio,3,641.69,1925.07,entregué
+1480,2022/05/10,Guilherme Farias,vieirayuri@nascimento.br,Excepturi 91Ah,Iluminação,4,179.63,718.52,pendente
+1481,2023/07/19,Maria Eduarda Lopes,caua92@da.br,Saepe 90W50,motr,1,568.58,568.58,entregué
+1482,2022/04/30,Davi Lucca da Paz,kalves@bol.com.br,Fugit 42mm,Iluminação,4,106.81,427.24,cancelado
+1483,2023/11/02,Ana Laura Rocha,ribeirodavi@gmail.com,Consequatur 72Ah,freio,tres,980.63,,cancelado
+1484,2023/12/01,Luiz Felipe Farias,gabriela77@ig.com.br,Optio 42W50,lubrificantes,5,347.9,1739.5,cançelado
+1485,2024/03/16,Srta. Mariana Rodrigues,salestheo@bol.com.br,Excepturi 70Ah,freio,5,417.02,2085.1,cancelado
+1486,2025/01/31,Rebeca Peixoto,silvaclara,Amet 58Ah,Lubrificantes,2,456.37,912.74,pendente
+1487,2022/06/06,Cecília Araújo,theovieira@ramos.br,Optio 83W50,Iluminação,1,241.75,241.75,cancelado
+1488,2025/01/18,Marina Duarte,brenomoura@yahoo.com.br,Nesciunt 85mm,Freio,5,791.91,3959.55,Em transporte
+1489,2023/01/22,Kamilly Barros,amanda89@monteiro.br,Vero 19Ah,Elétrico,4,481.94,1927.76,entregué
+1490,2022/05/12,Ana Beatriz Santos,mrocha@gmail.com,Suscipit 88W50,Elétrico,4,271.18,1084.72,Em transporte
+1491,2025/03/03,Thomas Moraes,maria-alice96@araujo.br,Enim 28W50,iluminacao,2,247.69,495.38,cançelado
+1492,2022/11/07,Ana Luiza Lopes,rochapedro-lucas@uol.com.br,Commodi 18W50,motr,4,383.03,1532.12,Em transporte
+1493,2023/08/03,Júlia Alves,marina34@uol.com.br,Hic 71mm,Lubrificantes,1,191.45,191.45,em transporte
+1494,2024/11/01,Gustavo Henrique Caldeira,rodrigobarbosa@vieira.br,Minus 32W50,Motor,1,325.56,325.56,entregue
+1495,2022/05/10,Nicolas Gonçalves,ian22@gmail.com,Perspiciatis 35mm,suspencao,3,713.5,2140.5,pendente
+1496,2023/04/21,Davi da Mata,evelyn32@vieira.org,Accusantium 30W50,Iluminação,3,476.9,1430.7,pendente
+1497,2024/03/30,Natália Costela,falmeida@uol.com.br,Possimus 92mm,Freio,4,864.75,3459.0,cançelado
+1498,2023/08/29,Sr. Benício Cardoso,heitor09@bol.com.br,Vitae 28W50,Freio,3,492.94,1478.82,pendenti
+1499,2024/07/01,Lucca Aragão,juan13@moraes.com,Ipsum 68mm,motr,4,998.58,3994.32,cancelado

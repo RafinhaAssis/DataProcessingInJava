@@ -1,0 +1,6 @@
+git:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/db_orders
+    username: postgres
+    password: hahaha123
+    driver: org.postgresql.Driver
