@@ -20,7 +20,7 @@ Este repositório serve como um espaço para armazenar o código-fonte de divers
 
 <table>
   <tr>
-    <td><img src="OrdersInCSV/diagrama/image/Modelo.png" alt="Imagem" style="height: 220px;"></td>
+    <td><img src="OrdersInCSV/diagrama/image/Modelo.png" alt="Imagem" style="width: 420px;"></td>
     <td>
       <h2 style="margin-top: 0; font-size: 24px; color: #333;">Pedidos</h2>
       <h3 style="font-size: 18px; color: #666;">Projeto de tratamento de pedidos</h3>
