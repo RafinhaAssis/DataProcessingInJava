@@ -26,7 +26,7 @@ public class ApplicationController {
 
     @PostConstruct
     public void run(){
-        //webDriver.get("");
+        //webDriver.get();
         try {
             //familyService.accessCards(webDriver);
             catalogService.readerPdf();

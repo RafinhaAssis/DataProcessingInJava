@@ -21,7 +21,7 @@ public class CatalogService {
     }
 
     public void readerPdf() throws IOException {
-        PDDocument document = PDDocument.load(new File(""));
+        PDDocument document = PDDocument.load(new File("pdf/Delivery Express.pdf"));
         if(document.getNumberOfPages()==2){
             getTwoPageContent(document);
         }
@@ -63,11 +63,37 @@ public class CatalogService {
             configurationVehicleModel.setGearBoxModel(elementsMapper.gearboxModelMapper(text));
         }
         else if(ConfigurationVehicleEnum.EMBREAGEM.getDesc().equals(vehicleEnum)){
-
+            configurationVehicleModel.setEmbregModel(elementsMapper.embregModelMapper(text));
         }
         else if(ConfigurationVehicleEnum.EIXO_DIANTEIRO.getDesc().equals(vehicleEnum)){
 
         }
+        else if(ConfigurationVehicleEnum.EIXO_TRASEIRO_MOTRIZ.getDesc().equals(vehicleEnum)){
+            configurationVehicleModel.setRearAxleModel(elementsMapper.rearAxleModelMapper(text));
+        }
+        else if(ConfigurationVehicleEnum.SUSPENSAO.getDesc().equals(vehicleEnum)){
+            configurationVehicleModel.setSuspensionModel(elementsMapper.suspensionModelMapper(text));
+        }
+        else if(ConfigurationVehicleEnum.CHASSI.getDesc().equals(vehicleEnum)){
+            configurationVehicleModel.setChassisModel(elementsMapper.chassiModelMapper(text));
+        }
+        else if(ConfigurationVehicleEnum.RODAS_E_PNEUS.getDesc().equals(vehicleEnum)){
+            //elementsMapper.wheelTireModelMapper(text);
+        }
+        else if(ConfigurationVehicleEnum.FREIOS.getDesc().equals(vehicleEnum)){
+            configurationVehicleModel.setBrakeModel(elementsMapper.brakeModelMapper(text));
+        }
+        else if(ConfigurationVehicleEnum.SISTEMA_ELETRICO.getDesc().equals(vehicleEnum)){
+            configurationVehicleModel.setElectricalSystemModel(elementsMapper.systemModelMapper(text));
+        }
+        else if(ConfigurationVehicleEnum.VOLUMES_ABASTECIMENTO.getDesc().equals(vehicleEnum)){
+            configurationVehicleModel.setSupplyVolumeModel(elementsMapper.supplyVolumeModelMapper(text));
+        }
+        else if(ConfigurationVehicleEnum.DIMENSOES.getDesc().equals(vehicleEnum)){
+           // elementsMapper.dimensionModelMapper(text);
+        }
+
+
 
     }
 }
